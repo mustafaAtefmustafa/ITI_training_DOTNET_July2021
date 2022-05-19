@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "SendWithViewBag";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    MVCDay2.Models.Employee o1 = ViewBag.emp1 as MVCDay2.Models.Employee;
+}
+
+<h2>SendWithViewBag</h2>
+<table class="table table-hover table-dark table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Age</th>
+        <th>Salary</th>
+    </tr>
+    <tr>
+        <td>@o1.ID</td>
+        <td>@o1.Name</td>
+        <td>@o1.Address</td>
+        <td>@o1.Age</td>
+        <td>@o1.Salary</td>
+    </tr>
+
+</table>
+

@@ -1,0 +1,4 @@
+D:\lab\day8.9\Day8,9\Day8,9\obj\Release\net5.0\Day8,9.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\day8.9\Day8,9\Day8,9\obj\Release\net5.0\Day8,9.AssemblyInfoInputs.cache
+D:\lab\day8.9\Day8,9\Day8,9\obj\Release\net5.0\Day8,9.AssemblyInfo.cs
+D:\lab\day8.9\Day8,9\Day8,9\obj\Release\net5.0\Day8,9.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.csproj.AssemblyReference.cache
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.AssemblyInfoInputs.cache
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.AssemblyInfo.cs
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.csproj.CoreCompileInputs.cache
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.exe
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.deps.json
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.runtimeconfig.json
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.runtimeconfig.dev.json
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.dll
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\ref\Day8,9.dll
+D:\lab\day8.9\Day8,9\Day8,9\bin\Debug\net5.0\Day8,9.pdb
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.dll
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\ref\Day8,9.dll
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.pdb
+D:\lab\day8.9\Day8,9\Day8,9\obj\Debug\net5.0\Day8,9.genruntimeconfig.cache

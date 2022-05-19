@@ -1,0 +1,16 @@
+D:\lab\day03\day03\bin\Debug\net5.0\day03.exe
+D:\lab\day03\day03\bin\Debug\net5.0\day03.deps.json
+D:\lab\day03\day03\bin\Debug\net5.0\day03.runtimeconfig.json
+D:\lab\day03\day03\bin\Debug\net5.0\day03.runtimeconfig.dev.json
+D:\lab\day03\day03\bin\Debug\net5.0\day03.dll
+D:\lab\day03\day03\bin\Debug\net5.0\ref\day03.dll
+D:\lab\day03\day03\bin\Debug\net5.0\day03.pdb
+D:\lab\day03\day03\obj\Debug\net5.0\day03.csproj.AssemblyReference.cache
+D:\lab\day03\day03\obj\Debug\net5.0\day03.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\day03\day03\obj\Debug\net5.0\day03.AssemblyInfoInputs.cache
+D:\lab\day03\day03\obj\Debug\net5.0\day03.AssemblyInfo.cs
+D:\lab\day03\day03\obj\Debug\net5.0\day03.csproj.CoreCompileInputs.cache
+D:\lab\day03\day03\obj\Debug\net5.0\day03.dll
+D:\lab\day03\day03\obj\Debug\net5.0\ref\day03.dll
+D:\lab\day03\day03\obj\Debug\net5.0\day03.pdb
+D:\lab\day03\day03\obj\Debug\net5.0\day03.genruntimeconfig.cache

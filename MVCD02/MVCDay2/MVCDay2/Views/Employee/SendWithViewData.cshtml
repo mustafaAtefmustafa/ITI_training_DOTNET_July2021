@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "SendWithViewData";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+    var employees = ViewData["ee"] as List<MVCDay2.Models.Employee>;
+}
+
+<h2>SendWithViewData</h2>
+<table class="table table-hover table-dark" >
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Age</th>
+        <th>Salary</th>
+    </tr>
+    @foreach (var item in employees)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td>@item.Address</td>
+            <td>@item.Age</td>
+            <td>@item.Salary</td>
+
+        </tr>
+    }
+</table>
